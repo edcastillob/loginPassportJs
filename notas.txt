@@ -1,0 +1,4 @@
+instalar 
+
+npm install express ejs passport express-session cookie-parser
+npm install passport-local
